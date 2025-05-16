@@ -2,13 +2,14 @@
 
 /* Variáveis */
 :root {
-    --primary-color: #17c8db;
-    --secondary-color: #208686;
-    --text-color: #2da5c0;
-    --background-color: #F2E3D5;
-    --button-hover: #005a7e;
+ --primary-color: #cb17db;
+    --secondary-color: #106363;
+    --text-color: #00d0ff;
+    --background-color: #dd41a99a;
+    --button-hover: #870ca0;
     --font-body: "Chocolate Classical Sans", serif;
     --font-titulo: "Rakkas", serif;
+}
 }
 }
 
